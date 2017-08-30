@@ -95,7 +95,7 @@ public class Customer {
     
     public void selectProduct(String productName){
         
-        System.out.println("Khách hàng đã chọn sản phẩm " + productName);
+        System.out.println("Khách hàng "+ this.name +" đã chọn sản phẩm " + productName);
     
     }
     
